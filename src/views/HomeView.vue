@@ -21,13 +21,13 @@ const notify = () => {
   <div class="container my-5">
     <div class="card shadow" style="width: 20rem;">
       <div class="card-header p-0">
-        <img src="https://i.pinimg.com/564x/3a/17/0e/3a170e3088f8a515c4b301e66e12c53f.jpg" class="card-img-top"
+        <img src="https://i.pinimg.com/564x/35/a1/6b/35a16b59c7d0d5fdbd591c5ce64d23d9.jpg" class="card-img-top"
           alt="img">
       </div>
       <div class="card-body">
         <h5 class="card-title">Home Page</h5>
         <p class="card-text">With supporting text below as a natural lead-in to additional content.</p>
-        <a href="#" class="btn btn-primary" @click="notify">Read...</a>
+        <a href="#" class="btn btn-danger" @click="notify">Read...</a>
       </div>
     </div>
   </div>
